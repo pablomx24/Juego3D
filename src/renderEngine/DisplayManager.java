@@ -6,9 +6,14 @@
 package renderEngine;
 
 public class DisplayManager{
+    
+    public static final int WIDTH = 1280;
+    public static final int HEIGHT = 720;
 
-public static void createDisplay(){}
-public static void updateDisplay(){}
-public static void closeDisplay(){}
+    public static void createDisplay(){
+
+    }
+    public static void updateDisplay(){}
+    public static void closeDisplay(){}
 
 }
